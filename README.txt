@@ -1,4 +1,5 @@
 Demo Link:https://www.youtube.com/watch?v=pV6b8nx77b4
+If you want to run this on your own machine, you need to extract the node_modules.zip folders in the backend and frontend.
 Database Structure:
 This website requires that you have a mySQL installed and a database called ttcbase with the following structure created.
 ttcbase
